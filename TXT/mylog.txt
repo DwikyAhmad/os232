@@ -4,7 +4,7 @@
 ZCZC W02 30 GitHub related
 ZCZC W02 60 Studying Quiz
 ZCZC W02 180 Assignment #02
-ZCZC W02 100 Classroom Study
+ZCZC W02 180 Classroom Study
 ZCZC W01 180 Assignment #01
 ZCZC W01 30 Quiz related
 ZCZC W01 200 CLASSROOM related
