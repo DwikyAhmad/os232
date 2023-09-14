@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W02 60 Studying Quiz
+ZCZC W02 180 Assignment #02
+ZCZC W02 100 Classroom Study
 ZCZC W01 180 Assignment #01
 ZCZC W01 30 Quiz related
 ZCZC W01 200 CLASSROOM related
