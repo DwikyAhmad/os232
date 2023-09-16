@@ -11,7 +11,5 @@ These commands will help you list PCI devices, view information about your CPU, 
 * Make better markdown files with this
 * [Operating System, Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=1UjHpqbXFX_D2Wvh) ---
 A Youtube playlist of Operating System course by Neso Academy
-*[Vim Crash Course For Beginners](https://www.youtube.com/watch?v=jXud3JybsG4) ---
+* [Vim Crash Course For Beginners](https://www.youtube.com/watch?v=jXud3JybsG4) ---
 Tutorial for editing file with vim
-<br>
-<hr>
