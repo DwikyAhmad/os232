@@ -8,8 +8,7 @@ permalink: LINKS/
 Some easy-to-use commands you can use to inspect hardware. 
 These commands will help you list PCI devices, view information about your CPU, and more.
 <hr>
-* [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ---
-Make better markdown files with this
+* [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Make better markdown files with this
 <hr>
 * [Operating System, Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=1UjHpqbXFX_D2Wvh) ---
 A Youtube playlist of Operating System course by Neso Academy
