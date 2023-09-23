@@ -15,3 +15,9 @@ A Youtube playlist of Operating System course by Neso Academy
 <hr>
 * [Vim Crash Course For Beginners](https://www.youtube.com/watch?v=jXud3JybsG4) ---
 Tutorial for editing file with vim
+<hr>
+* [Regular Expressions](https://youtu.be/bgBWp9EIlMM) ---
+A 15 minute video which explains important basic commands and how to use regular expressions.
+<hr>
+* [Cyber Security Full Course](https://youtu.be/U_P23SqJaDc) ---
+Good for learning the concepts of cybersecurity
