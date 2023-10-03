@@ -21,3 +21,5 @@ A 15 minute video which explains important basic commands and how to use regular
 <hr>
 * [Cyber Security Full Course](https://youtu.be/U_P23SqJaDc) ---
 Good for learning the concepts of cybersecurity
+* [Pointers in C for Absolute Beginners – Full Course](https://youtu.be/MIL2BK02X8A?si=VbpvZLoglrwqqTyh) ---
+Learn about pointers on C programming language
