@@ -27,3 +27,6 @@ Learn about pointers on C programming language
 <hr>
 * [RSA Encryption](https://www.youtube.com/watch?v=819cUtO2cwo&pp=ygUJcnNhIGxpbnV4) ---
 A good explanation about RSA and asymetric key encryption.
+<hr>
+* [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
+Notes from github to learn threads and concurreny
