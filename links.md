@@ -30,3 +30,6 @@ A good explanation about RSA and asymetric key encryption.
 <hr>
 * [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
 Notes from github to learn threads and concurreny
+<hr>
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+Great explanation about the concept of deadlock in operating system
