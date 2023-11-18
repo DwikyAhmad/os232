@@ -33,3 +33,6 @@ Notes from github to learn threads and concurreny
 <hr>
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
 Great explanation about the concept of deadlock in operating system
+<hr>
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+Full Guide on How to build Linux From Scratch 12.0
